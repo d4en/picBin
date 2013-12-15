@@ -6,7 +6,7 @@
         <GridSplitter HorizontalAlignment="Left" Height="528" Margin="442,0,0,0" VerticalAlignment="Top" Width="5"/>
         <Button x:Name="btnBrowse" Content="Browse" HorizontalAlignment="Left" Margin="808,10,0,0" VerticalAlignment="Top" Width="75" Click="btnBrowse_Click"/>
         <Image x:Name="imgClean" HorizontalAlignment="Left" Height="323" Margin="455,44,0,0" VerticalAlignment="Top" Width="428"/>
-        <CheckBox x:Name="checkBoxUp" Content="CheckBox" HorizontalAlignment="Left" Margin="572,372,0,0" VerticalAlignment="Top" Checked="checkBoxUp_Checked"/>
+        <CheckBox x:Name="checkBoxUp" Content="OTSU" HorizontalAlignment="Left" Margin="572,372,0,0" VerticalAlignment="Top" Checked="checkBoxUp_Checked"/>
         <CheckBox x:Name="checkBoxDown" Content="CheckBox" HorizontalAlignment="Left" Margin="572,393,0,0" VerticalAlignment="Top" Checked="checkBoxDown_Checked"/>
         <Button x:Name="btnProcess" Content="Process" HorizontalAlignment="Left" Margin="680,387,0,0" VerticalAlignment="Top" Width="75" Click="btnProcess_Click"/>
         <Image x:Name="imgProc" HorizontalAlignment="Left" Height="323" Margin="0,44,0,0" VerticalAlignment="Top" Width="428"/>
